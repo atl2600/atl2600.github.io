@@ -25,4 +25,13 @@ Friends
 
 ### dc404
 
+ Atlanta local defcon group, meets at Manuel's tavern on the
+ 3rd Saturday of the month. This is pretty active, and we
+ talk about a wide range of things. http://dc404.org
+
 ### Cryptoparty
+
+ Freeside Cryptoparty - Monthly, Freeside Atlanta (atlanta's
+ something-est makerspace) hosts an all-skill-levels cryptoparty focused
+ on digital privacy and security:
+ https://wiki.freesideatlanta.org/fs/CryptoParty
