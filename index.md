@@ -18,7 +18,7 @@ All ages/skill levels welcome. No dues, feel free to bring new friends.
 
 Sign up for the chat/discussion list - it's low traffic, keeps you in
 the loop, and enables you to communicate with the other 2600 folks:
-
+http://se2600.org/mailman/listinfo/404
 
 Friends
 -------
