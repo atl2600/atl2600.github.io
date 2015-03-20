@@ -35,3 +35,12 @@ Friends
  something-est makerspace) hosts an all-skill-levels cryptoparty focused
  on digital privacy and security:
  https://wiki.freesideatlanta.org/fs/CryptoParty
+
+Events
+------
+
+### B-Sides Atlanta
+
+Usually once a year, somebody throws a B-sides conference in Atlanta. In 2015, it 
+happened at Atlanta Tech Village, and was a heck of a good time. See related:
+https://brimstone.github.io/#!/events/2015/03/bsidesatl.md
