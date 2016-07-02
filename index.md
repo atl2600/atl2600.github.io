@@ -47,3 +47,55 @@ Events
 Usually once a year, somebody throws a B-sides conference in Atlanta. In 2015, it 
 happened at Atlanta Tech Village, and was a heck of a good time. See related:
 https://brimstone.github.io/#!/events/2015/03/bsidesatl.md
+
+Puzzles
+-------
+
+Every month, there's a puzzle announced to our twitter feed and mailing list.
+The puzzles are really simple, usually just two operations to decode or encode.
+The puzzles are all solvable with utilities available in modern GNU/Linux
+distributions.
+
+### July 2016
+
+```
+dG1sPy0K
+Y2UlMmVo
+ZCU3NSU2
+NjMlNjhl
+dC8lNzMl
+b3BlLm5l
+Ly94aS5o
+aHR0cHM6
+```
+
+### June 2016
+
+```
+⸮zke yzkqioz KVUN xaue zum aue kbgN
+```
+
+### May 2016
+
+```
+1038,82,955,31,872,1,40,835,1330,1169,1065,639,1219,513,191
+[picture of the statue of liberty]
+```
+
+### April 2016
+
+/No puzzle for this month/
+
+### March 2016
+
+/No puzzle for this month/
+
+### February 2016
+
+```
+/IXZ0RXZiBSZiBSZzVGa0BibhNGI39GS
+```
+### January 2016
+```
+1cjaUTxFp7Us2SjG92Nam6ZB971JUTxxpPiW
+```
