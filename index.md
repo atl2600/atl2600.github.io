@@ -23,6 +23,13 @@ http://se2600.org/mailman/listinfo/404
 
 You can also reach us on the Freenode IRC network, [#atl2600](https://webchat.freenode.net/?channels=%23atl2600)
 
+We're trying something new this month and will be running a tiny version
+of Defcon's Data Duplication village: https://dcddv.org
+Bring a empty usb drive, 32GB or bigger if you'd like a copy of what we
+have to offer this month. There's con videos, VMs, zines, and it's boots
+into the latest Kali Linux. Checksum([MD5SUMS](datadup/2019-04/MD5SUMS.txt.asc))([SHA1SUMS](datadup/2019-04/SHA1SUMS.txt.asc))
+files available to build trust in the content.
+
 Friends
 -------
 
