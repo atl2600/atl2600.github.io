@@ -21,14 +21,15 @@ Sign up for the chat/discussion list - it's low traffic, keeps you in
 the loop, and enables you to communicate with the other 2600 folks:
 http://se2600.org/mailman/listinfo/404
 
-You can also reach us on the Freenode IRC network, [#atl2600](https://webchat.freenode.net/?channels=%23atl2600)
+The most-used chat mechanism between meetings is the Atlanta CyberSecurity Engineers
+discord server. An invite is available at https://discord.gg/SCvAgvA
 
-We're trying something new this month and will be running a tiny version
-of Defcon's Data Duplication village: https://dcddv.org
-Bring a empty usb drive, 32GB or bigger if you'd like a copy of what we
-have to offer this month. There's con videos, VMs, zines, and it's boots
-into the latest Kali Linux. Checksum([MD5SUMS](datadup/2019-04/MD5SUMS.txt.asc))([SHA1SUMS](datadup/2019-04/SHA1SUMS.txt.asc))
-files available to build trust in the content.
+You can also reach us on the Freenode IRC network, [#atl2600](https://webchat.freenode.net/?channels=%23atl2600)
+If you are interested in chatting on IRC, make sure you say hi, then idle for a couple days, this is very low traffic
+
+There is often a mini-ctf called NetKotH, so bring a machine with Kali installed,
+and try to get your handle on the scoreboard. If you want a buddy don't be afraid
+to ask, the only things we byte are chips!
 
 Friends
 -------
@@ -39,12 +40,18 @@ Friends
  3rd Saturday of the month. This is pretty active, and we
  talk about a wide range of things. http://dc404.org
 
-### Cryptoparty
+### dc770 (Cartersville )
+ See the mailing list for schedule http://dc770.org
 
- Freeside Cryptoparty - Monthly, Freeside Atlanta (atlanta's
- something-est makerspace) hosts an all-skill-levels cryptoparty focused
- on digital privacy and security:
- https://wiki.freesideatlanta.org/fs/CryptoParty
+### dc678 (Marietta)
+
+ See the mailing list for schedule http://dc678.org/
+
+### dc470 (Alpharetta)
+
+ See the mailing list for schedule http://dc470.org/
+
+
 
 Events
 ------
@@ -53,6 +60,9 @@ Events
 
 https://bsidesatl.org
 
+March 2020 - KSU
+
 Usually once a year, somebody throws a B-sides conference in Atlanta. In 2015, it
 happened at Atlanta Tech Village, and was a heck of a good time. See related:
 https://brimstone.github.io/#!/events/2015/03/bsidesatl.md
+
