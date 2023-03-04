@@ -12,7 +12,7 @@ Feel free to drop in any time! Historically the in-person meetings occur on the
 Market level (lowest level) of the food court in Lenox Mall, near the outside
 doors. When you enter in the outside doors on Market Level, look for the table
 in the middle or close the glass full of laptops and cables.  There is parking
-very close to the food court, directly opposite the mall from Peachtree. 
+very close to the food court, directly opposite the mall from Peachtree.
 
 Lenox Square Mall
 3393 Peachtree Rd NE
@@ -27,7 +27,7 @@ http://se2600.org/mailman/listinfo/404
 The most-used chat mechanism between meetings is the Atlanta CyberSecurity Engineers
 discord server. An invite is available at https://discord.gg/SCvAgvA
 
-You can also reach us on the Freenode IRC network, [#atl2600](https://webchat.freenode.net/?channels=%23atl2600)
+You can also reach us on the 2600 IRC network, #atl2600.
 If you are interested in chatting on IRC, make sure you say hi, then idle for a couple days, this is very low traffic
 
 There is often a mini-ctf called NetKotH, so bring a machine with Kali installed,
@@ -62,8 +62,6 @@ Events
 ### B-Sides Atlanta
 
 https://bsidesatl.org
-
-March 2020 - KSU
 
 Usually once a year, somebody throws a B-sides conference in Atlanta. In 2015, it
 happened at Atlanta Tech Village, and was a heck of a good time. See related:
