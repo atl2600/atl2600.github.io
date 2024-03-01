@@ -4,7 +4,7 @@ atl2600 - Your local 2600 connection.
 Meetings
 --------
 
-Our meetings are held at 7pm on the first Friday of every month.  During the
+Our meetings are held at 6pm on the first Friday of every month.  During the
 recent pandemic, we have been gathering online on a server hosted by one of the
 regulars. No RSVP or registration is necessary. The link to the meeting is
 [https://rsvz.userserviceable.com/b/bri-kha-6kx](https://rsvz.userserviceable.com/b/bri-kha-6kx)
@@ -20,15 +20,8 @@ Atlanta, GA 30326
 
 All ages/skill levels welcome. No dues, feel free to bring new friends.
 
-Sign up for the chat/discussion list - it's low traffic, keeps you in
-the loop, and enables you to communicate with the other 2600 folks:
-http://se2600.org/mailman/listinfo/404
-
 The most-used chat mechanism between meetings is the Atlanta CyberSecurity Engineers
 discord server. An invite is available at https://discord.gg/SCvAgvA
-
-You can also reach us on the 2600 IRC network, #atl2600.
-If you are interested in chatting on IRC, make sure you say hi, then idle for a couple days, this is very low traffic
 
 There is often a mini-ctf called NetKotH, so bring a machine with Kali installed,
 and try to get your handle on the scoreboard. If you want a buddy don't be afraid
