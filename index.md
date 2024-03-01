@@ -4,19 +4,21 @@ atl2600 - Your local 2600 connection.
 Meetings
 --------
 
-Our meetings are held at 6pm on the first Friday of every month.  During the
-recent pandemic, we have been gathering online on a server hosted by one of the
-regulars. No RSVP or registration is necessary. The link to the meeting is
-[https://rsvz.userserviceable.com/b/bri-kha-6kx](https://rsvz.userserviceable.com/b/bri-kha-6kx)
-Feel free to drop in any time! Historically the in-person meetings occur on the
-Market level (lowest level) of the food court in Lenox Mall, near the outside
-doors. When you enter in the outside doors on Market Level, look for the table
-in the middle or close the glass full of laptops and cables.  There is parking
-very close to the food court, directly opposite the mall from Peachtree.
+Our meetings are held at 6pm on the first Friday of every month. Feel free to
+drop in any time! The in-person meetings occur on the Market level (lowest
+level) of the food court in Lenox Mall, near the outside doors. When you enter
+in the outside doors on Market Level, look for the table in the middle or close
+the glass full of laptops and cables.  There is parking very close to the food
+court, directly opposite the mall from Peachtree.
 
 Lenox Square Mall
 3393 Peachtree Rd NE
 Atlanta, GA 30326
+
+During the recent pandemic, we have been gathering online on a server hosted by
+one of the regulars. No RSVP or registration is necessary. The link to the
+meeting is
+[https://rsvz.userserviceable.com/b/bri-kha-6kx](https://rsvz.userserviceable.com/b/bri-kha-6kx) . If you find yourself alone on the virtual meeting, feel free to hang out, someone may show up, or come in person if possible.
 
 All ages/skill levels welcome. No dues, feel free to bring new friends.
 
