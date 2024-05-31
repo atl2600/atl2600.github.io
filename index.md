@@ -23,7 +23,7 @@ meeting is
 All ages/skill levels welcome. No dues, feel free to bring new friends.
 
 The most-used chat mechanism between meetings is the Atlanta CyberSecurity Engineers
-discord server. An invite is available at https://discord.gg/SCvAgvA
+discord server. An invite is available at https://discord.gg/5Q5xmUHqGX
 
 There is often a mini-ctf called NetKotH, so bring a machine with Kali installed,
 and try to get your handle on the scoreboard. If you want a buddy don't be afraid
