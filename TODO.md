@@ -1,0 +1,6 @@
+- bsidesatl is at bsidesatl.info now. They were at KSU for a while, but they're at Georgia Tech Conference Center this year.
+- dc678 is now ACE678 and they meet at the Marietta Burger Bar the second wednesday
+- DC770 meets in the basement room of Jefferson's in Cartersville the first tuesday
+- DC470 is defunct
+- put a blurb describing 2600, how it's based off the magazine, link to 2600.org
+- add a link to https://infosec.exchange/@atl2600
