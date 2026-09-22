@@ -97,7 +97,7 @@ content (R-05, C-3):
    language (the accent is "the emphasis"), so no border, shadow, glow,
    uppercase label, or icon is added (R-01, R-06, R-09, R-12, R-13).
     Text on it is `--bg` at 10.1:1 (AA/AAA, table above). The banner
-    carries one photo of the venue (`secret.food.court.jpg`) as a
+     carries one photo of the venue (`sandbox-location.png`) as a
     48px-tall thumbnail next to the text. Clicking it grows the same
     image to full content width in place: the thumbnail is an anchor to
     its own id, the `:target` state does the growing, and a
